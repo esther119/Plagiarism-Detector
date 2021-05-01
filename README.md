@@ -6,6 +6,11 @@ It compares different string matching methods, including regular hashing and rol
 * Rabin karp rolling hash
 * Regular hash 
 
+**Output** 
+* Percentage of plagiarism
+* Identify location of plagiarism in texts
+
+
 **Test Cases** 
 *  Basic 
 *  Find and replace plagiarism
