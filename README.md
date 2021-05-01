@@ -12,4 +12,6 @@ It compares different string matching methods, including regular hashing and rol
 *  Mashup plagiarism
 
 **Time Complexity Analysis** 
+*  Compare algorithms
+*  Compare different hash table sizes
 
