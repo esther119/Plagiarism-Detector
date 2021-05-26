@@ -1,4 +1,4 @@
-# Scheduler Of A Day
+# Plagiarism Detector
 
 1. [ About this Project. ](#desc)
 2. [ Usage tips. ](#usage)
